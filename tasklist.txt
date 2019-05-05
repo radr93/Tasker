@@ -1,0 +1,3 @@
+Superstore      Milk 2%
+Superstore      Bread
+MPI      Renew Insurance
